@@ -1,0 +1,8 @@
+/.idea/
+/dl/
+/venv/
+/.venv/
+*.whl
+__pycache__
+*.pyc
+install_*.bat
